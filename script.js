@@ -53,7 +53,7 @@ class PincodeData {
             { subDistrict: "Walajabad", "pincode": "631605", "type": "Rural" },
             { subDistrict: "Sriperumbudur", "pincode": "602105", "type": "Urban" },
             { subDistrict: "Karikambattu", "pincode": "604307", "type": "Rural" },
-            { subDistrict: "Thennerkunam", "pincode": "604102", "type": "Rural" }
+            { subDistrict: "Thennerkunam", "pincode": "604102", "type": "Rural" },
         ];
     }
 
