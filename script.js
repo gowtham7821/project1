@@ -47,13 +47,13 @@ class PincodeData {
             { subDistrict: "Villupuram", pincode: "605601", type: "Urban" },  
             { subDistrict: "Arakkonam", pincode: "605602", type: "Rural" },   
             { subDistrict: "Kallakurichi", pincode: "605603", type: "Rural" },
-            { "subDistrict": "Acharapakkam", "pincode": "603301", "type": "Rural" },
-            { "subDistrict": "Ayyampettai", "pincode": "631601", "type": "Rural" },
-            { "subDistrict": "Uthiramerur", "pincode": "603406", "type": "Rural" },
-            { "subDistrict": "Walajabad", "pincode": "631605", "type": "Rural" },
-            { "subDistrict": "Sriperumbudur", "pincode": "602105", "type": "Urban" },
-            { "subDistrict": "Karikambattu", "pincode": "604307", "type": "Rural" },
-            { "subDistrict": "Thennerkunam", "pincode": "604102", "type": "Rural" }
+            { subDistrict: "Acharapakkam", "pincode": "603301", "type": "Rural" },
+            { subDistrict: "Ayyampettai", "pincode": "631601", "type": "Rural" },
+            { subDistrict: "Uthiramerur", "pincode": "603406", "type": "Rural" },
+            { subDistrict: "Walajabad", "pincode": "631605", "type": "Rural" },
+            { subDistrict: "Sriperumbudur", "pincode": "602105", "type": "Urban" },
+            { subDistrict: "Karikambattu", "pincode": "604307", "type": "Rural" },
+            { subDistrict: "Thennerkunam", "pincode": "604102", "type": "Rural" }
         ];
     }
 
